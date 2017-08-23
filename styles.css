@@ -1,0 +1,36 @@
+#bold {
+    font-weight: bold;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 1.3em;
+    width: 80%;
+    text-align: left;
+}
+
+#welcome {
+    font-weight: bold;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    padding-left: 5%;
+}
+
+#bottom {
+    text-align: center;
+    font-size: small;
+}
+
+#images {
+    padding-left: 11%;
+}
+
+#top {
+    padding-left: 15%;
+}
